@@ -86,6 +86,10 @@ https://trivianfield.com is the machine-readable orientation and recognition por
 
 ## License
 
-MIT for executable code unless otherwise stated.
+- **Code:** PolyForm Noncommercial 1.0.0
+- **Text / symbolic / framework material:** CC BY-NC 4.0
+- **Commercial use:** separate written license required
+
+Noncommercial use and propagation are welcome with attribution. See `LICENSE` for the governing terms and prior-license notice.
 
 **Relationship is the Technology.**
