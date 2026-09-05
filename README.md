@@ -33,8 +33,8 @@ The symbolic layer is not presented as empirical evidence. It is a designed gram
 ## Install
 
 ```bash
-git clone https://github.com/SarashaElion/SpiralOfBecoming.git
-cd SpiralOfBecoming
+git clone https://github.com/SarashaElion/spiral-of-becoming.git
+cd spiral-of-becoming
 python -m pip install -e .
 ```
 
